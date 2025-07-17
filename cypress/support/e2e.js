@@ -1,0 +1,1 @@
+import './commands' // Se você tiver comandos personalizados
