@@ -20,11 +20,17 @@ O projeto tem como foco o aprendizado e prática de comandos essenciais do Cypre
 ## 📂 Estrutura de Pastas
 
 📁 cypress/
+
 └── e2e/
+
 └── saucedemo/
+
 └── comandos-basicos.cy.js
+
 📄 cypress.config.js
+
 📄 package.json
+
 📄 README.md
 
 
