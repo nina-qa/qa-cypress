@@ -68,5 +68,5 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 
 
-Feito por Ana Tassini – QA em transição para automação com Cypress.
+Feito por Ana Tassini – QA em desenvolvimento com Cypress.
 
